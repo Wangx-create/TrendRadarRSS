@@ -102,7 +102,11 @@ rss:
     - id: "baoxian-one"
       name: "保险一哥"
       url: "http://rss.jintiankansha.me/rss/GEYDAOJZGB6GKMTBMZSGMMBXMNTDAODEG5RWIZBUMJQTSNLCME4WGOJTMI3GGZRQHFRGIMBVMVRQ===="
-      
+
+    - id: "china_bank"
+      name: "中国银行保险报"
+      url: "http://rss.jintiankansha.me/rss/GMZTQMZZHB6DONRQGI3DKNBVGJRTQYTBMI2TOYRQMY2WGNLFGA2TKYLFMUYDIMZUGQ4DAYJVMJTA===="
+    
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
