@@ -102,7 +102,6 @@ rss:
       - id: "baoxian-one"
       name: "保险一哥"
       url: "http://rss.jintiankansha.me/rss/GEYDAOJZGB6GKMTBMZSGMMBXMNTDAODEG5RWIZBUMJQTSNLCME4WGOJTMI3GGZRQHFRGIMBVMVRQ===="
-      enabled: false                  # 禁用
       
     # 自定义源示例
     # - id: "custom-feed"
