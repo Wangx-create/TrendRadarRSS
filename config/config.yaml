@@ -99,7 +99,7 @@ rss:
       url: "https://finance.yahoo.com/news/rssindex"
       enabled: false                  # 禁用
 
-      - id: "baoxian-one"
+    - id: "baoxian-one"
       name: "保险一哥"
       url: "http://rss.jintiankansha.me/rss/GEYDAOJZGB6GKMTBMZSGMMBXMNTDAODEG5RWIZBUMJQTSNLCME4WGOJTMI3GGZRQHFRGIMBVMVRQ===="
       
