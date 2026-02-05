@@ -93,11 +93,6 @@ rss:
       name: "阮一峰的网络日志"
       url: "http://www.ruanyifeng.com/blog/atom.xml"
       # max_age_days: 7               # 示例：推送7天内的文章（更新较慢的博客）
-    
-    - id: "yahoo-finance"
-      name: "雅虎财经"
-      url: "https://finance.yahoo.com/news/rssindex"
-      enabled: false                  # 禁用
 
     - id: "baoxian-one"
       name: "保险一哥"
@@ -106,6 +101,10 @@ rss:
     - id: "china_bank"
       name: "中国银行保险报"
       url: "http://rss.jintiankansha.me/rss/GMZTQMZZHB6DONRQGI3DKNBVGJRTQYTBMI2TOYRQMY2WGNLFGA2TKYLFMUYDIMZUGQ4DAYJVMJTA===="
+
+    - id: "china_renshou"
+      name: "中国人寿"
+      url: "https://supsub.net/feed/9add7a3a-e651-41f7-b500-70317f648dd8/mps/MjM5NTY4NjIzMg==/rss"
     
     # 自定义源示例
     # - id: "custom-feed"
